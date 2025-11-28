@@ -15,7 +15,8 @@ Along with this functionality, each dot independently extrudes off the globe cre
 This is achieved by shaders.
 
 To view, checkout original : <a href="https://hydeit.co/globe/" target="_blank">https://hydeit.co/globe/</a>
-To view, checkout with line : <a href="https://dainty-tulumba-908bf1.netlify.app/" target="_blank">https://hydeit.co/globe/</a> 
+
+To view, checkout with line : <a href="https://dainty-tulumba-908bf1.netlify.app/" target="_blank">https://dainty-tulumba-908bf1.netlify.app/</a> 
 
 ![alt text](https://github.com/jessehhydee/threejs-globe/blob/main/img/app_screen_shot.png?raw=true)
 
